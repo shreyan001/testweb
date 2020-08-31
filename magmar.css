@@ -1,0 +1,20 @@
+body 
+
+header{background-color:#FAD13A ;text-align: center;
+padding-bottom: 40px;}
+header h1{font-size: 38px}
+h1,h2{font-family: 'Russo One', sans-serif;}
+p{font-family: 'Russo One', sans-serif;
+	padding-left: 170px;}
+main h1{padding-bottom: 24px;padding-top: 
+	24px;padding-left: 170px}
+main p{padding-left: 8px;padding-bottom: 30px;} 
+span {padding-left: 170px;}
+main .caption{font-size: 25px;
+	padding-left: 450px;}
+footer{text-align: center;font-family: Russo One;
+	background-color:#FAD13A;padding-top: 25px;
+	padding-bottom: 25px;}
+ol{font-family: Russo One;padding-left: 170px;}
+ul {font-family: Russo One;padding-left: 170px}
+main {max-width: 1200px;}
